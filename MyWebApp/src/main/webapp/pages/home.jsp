@@ -8,6 +8,6 @@
 </head>
 <body>
 	<h1>Hello</h1>
-	Welcome ${name}
+	Welcome ${std.sid}
 </body>
 </html>
